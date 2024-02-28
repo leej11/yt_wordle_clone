@@ -4,6 +4,8 @@ I followed the Youtube tutorial found [here](https://youtu.be/WDTNwmXUz2c) made 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![demo](demo_image.png)
+
 ## Future things I want to do
 
 - [ ] Fix the logic so that it recognises _how many_ letters are present. At the moment, if the correct word was "ABCDE" and you guessed "EEEEA", it would highlight all the Es as yellow, when in fact only one of them should technically be yellow.
